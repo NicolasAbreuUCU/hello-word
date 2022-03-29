@@ -1,2 +1,3 @@
 # hello-word
-none
+
+Soy Nicolás Abreu, estoy cursando programación 2.
